@@ -1,0 +1,557 @@
+2021-11-09T19:47:37.0624168+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T19:47:37.0928695+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T19:47:37.1077965+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T19:47:37.6528516+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T19:47:37.6810077+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T19:47:37.6879221+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T19:48:03.1679738+01:00  [ERR] Compiling @angular/core : es2015 as esm2015
+ (5acd4031)
+2021-11-09T19:48:03.5189454+01:00  [ERR] Compiling @angular/animations : es2015 as esm2015
+ (9c30a060)
+2021-11-09T19:48:11.1493947+01:00  [ERR] Compiling ngx-bootstrap/utils : es2015 as esm2015
+ (492f6370)
+2021-11-09T19:48:11.6238547+01:00  [ERR] Compiling @angular/common : es2015 as esm2015
+ (ebfa3907)
+2021-11-09T19:48:11.9609257+01:00  [ERR] Compiling @angular/animations/browser : es2015 as esm2015
+ (588153d4)
+2021-11-09T19:48:13.7911590+01:00  [ERR] Compiling ngx-bootstrap/positioning : es2015 as esm2015
+ (dcb442f5)
+2021-11-09T19:48:14.0657181+01:00  [ERR] Compiling @angular/platform-browser : es2015 as esm2015
+ (a01bc7a9)
+2021-11-09T19:48:15.0717586+01:00  [ERR] Compiling ngx-bootstrap/component-loader : es2015 as esm2015
+ (476fc570)
+2021-11-09T19:48:15.8228606+01:00  [ERR] Compiling @angular/common/http : es2015 as esm2015
+ (934ad769)
+2021-11-09T19:48:16.1229024+01:00  [ERR] Compiling @angular/forms : es2015 as esm2015
+ (a5e7a4d2)
+2021-11-09T19:48:17.7358700+01:00  [ERR] Compiling @angular/platform-browser-dynamic : es2015 as esm2015
+ (00ea327c)
+2021-11-09T19:48:18.1409576+01:00  [ERR] Compiling @angular/platform-browser/animations : es2015 as esm2015
+ (8689353d)
+2021-11-09T19:48:18.3229592+01:00  [ERR] Compiling @ngx-translate/core : es2015 as esm2015
+ (fb8db328)
+2021-11-09T19:48:19.4028606+01:00  [ERR] Compiling @swimlane/ngx-datatable : es2015 as esm2015
+ (de94b4fb)
+2021-11-09T19:48:20.2340946+01:00  [ERR] Compiling angular-oauth2-oidc : es2015 as esm2015
+ (cf00f9fd)
+2021-11-09T19:48:21.2609543+01:00  [ERR] Compiling ngx-toasta : es2015 as esm2015
+ (74510f6e)
+2021-11-09T19:48:21.8612305+01:00  [ERR] Compiling @ng-select/ng-select : es2015 as esm2015
+ (9cf45cc3)
+2021-11-09T19:48:22.3699104+01:00  [ERR] Compiling ngx-bootstrap/modal : es2015 as esm2015
+ (ca2802c3)
+2021-11-09T19:48:23.4267934+01:00  [ERR] Compiling ngx-bootstrap/tooltip : es2015 as esm2015
+ (1826e0e6)
+2021-11-09T19:48:24.0025130+01:00  [ERR] Compiling ngx-bootstrap/popover : es2015 as esm2015
+ (0740364c)
+2021-11-09T19:48:24.2244858+01:00  [ERR] Compiling ngx-bootstrap/dropdown : es2015 as esm2015
+ (a173ec35)
+2021-11-09T19:48:24.4438960+01:00  [ERR] Compiling ngx-bootstrap/carousel : es2015 as esm2015
+ (38bd2f63)
+2021-11-09T19:48:24.9077073+01:00  [ERR] Compiling ng2-charts : es2015 as esm2015
+ (24251a2c)
+2021-11-09T19:48:25.4920253+01:00  [ERR] Compiling @angular/router : es2015 as esm2015
+ (ede1c3a1)
+2021-11-09T20:17:37.0189151+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T20:17:37.0811150+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T20:17:37.0876895+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T20:17:37.5722932+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T20:17:37.5769219+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T20:17:37.5806339+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T20:17:39.0424399+01:00  [ERR] npm ERR! code EJSONPARSE
+ (0b6b092e)
+2021-11-09T20:17:39.0474659+01:00  [ERR] npm ERR! file C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\package.json
+ (b554248d)
+2021-11-09T20:17:39.1361729+01:00  [ERR] npm ERR! JSON.parse Failed to parse json
+ (ece0506a)
+2021-11-09T20:17:39.1424380+01:00  [ERR] npm ERR! JSON.parse Unexpected token } in JSON at position 331 while parsing near '...ki@hotmail.com",
+ (838c93aa)
+2021-11-09T20:17:39.1455124+01:00  [ERR] npm ERR! JSON.parse   },
+ (d960eb74)
+2021-11-09T20:17:39.1508104+01:00  [ERR] npm ERR! JSON.parse   "license": "MI...'
+ (c9e117e2)
+2021-11-09T20:17:39.1584341+01:00  [ERR] npm ERR! JSON.parse Failed to parse package.json data.
+ (4aa613d7)
+2021-11-09T20:17:39.1621138+01:00  [ERR] npm ERR! JSON.parse package.json must be actual JSON, not just JavaScript.
+ (e23a6c99)
+2021-11-09T20:17:39.1654780+01:00  [ERR] npm ERR! A complete log of this run can be found in:
+ (e9dc2fc2)
+2021-11-09T20:17:39.1705834+01:00  [ERR] npm ERR!     C:\Users\Mihajlo\AppData\Roaming\npm-cache\_logs\2021-11-09T19_17_39_133Z-debug.log
+ (88b002be)
+2021-11-09T20:17:39.3200939+01:00 80000008-0003-fd00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.AggregateException: One or more errors occurred. (One or more errors occurred. (The npm script 'start' exited without indicating that the Angular CLI was listening for requests. The error output was: npm ERR! code EJSONPARSE
+
+npm ERR! file C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\package.json
+
+npm ERR! JSON.parse Failed to parse json
+
+npm ERR! JSON.parse Unexpected token } in JSON at position 331 while parsing near '...ki@hotmail.com",
+
+npm ERR! JSON.parse   },
+
+npm ERR! JSON.parse   "license": "MI...'
+
+npm ERR! JSON.parse Failed to parse package.json data.
+
+npm ERR! JSON.parse package.json must be actual JSON, not just JavaScript.
+
+
+
+npm ERR! A complete log of this run can be found in:
+
+npm ERR!     C:\Users\Mihajlo\AppData\Roaming\npm-cache\_logs\2021-11-09T19_17_39_133Z-debug.log
+
+))
+ ---> System.AggregateException: One or more errors occurred. (The npm script 'start' exited without indicating that the Angular CLI was listening for requests. The error output was: npm ERR! code EJSONPARSE
+
+npm ERR! file C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\package.json
+
+npm ERR! JSON.parse Failed to parse json
+
+npm ERR! JSON.parse Unexpected token } in JSON at position 331 while parsing near '...ki@hotmail.com",
+
+npm ERR! JSON.parse   },
+
+npm ERR! JSON.parse   "license": "MI...'
+
+npm ERR! JSON.parse Failed to parse package.json data.
+
+npm ERR! JSON.parse package.json must be actual JSON, not just JavaScript.
+
+
+
+npm ERR! A complete log of this run can be found in:
+
+npm ERR!     C:\Users\Mihajlo\AppData\Roaming\npm-cache\_logs\2021-11-09T19_17_39_133Z-debug.log
+
+)
+ ---> System.InvalidOperationException: The npm script 'start' exited without indicating that the Angular CLI was listening for requests. The error output was: npm ERR! code EJSONPARSE
+
+npm ERR! file C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\package.json
+
+npm ERR! JSON.parse Failed to parse json
+
+npm ERR! JSON.parse Unexpected token } in JSON at position 331 while parsing near '...ki@hotmail.com",
+
+npm ERR! JSON.parse   },
+
+npm ERR! JSON.parse   "license": "MI...'
+
+npm ERR! JSON.parse Failed to parse package.json data.
+
+npm ERR! JSON.parse package.json must be actual JSON, not just JavaScript.
+
+
+
+npm ERR! A complete log of this run can be found in:
+
+npm ERR!     C:\Users\Mihajlo\AppData\Roaming\npm-cache\_logs\2021-11-09T19_17_39_133Z-debug.log
+
+
+ ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at Microsoft.AspNetCore.SpaServices.AngularCli.AngularCliMiddleware.StartAngularCliServerAsync(String sourcePath, String scriptName, String pkgManagerCommand, Int32 portNumber, ILogger logger, DiagnosticSource diagnosticSource, CancellationToken applicationStoppingToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.AngularCli.AngularCliMiddleware.StartAngularCliServerAsync(String sourcePath, String scriptName, String pkgManagerCommand, Int32 portNumber, ILogger logger, DiagnosticSource diagnosticSource, CancellationToken applicationStoppingToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Microsoft.AspNetCore.SpaServices.AngularCli.AngularCliMiddleware.<>c.<Attach>b__2_0(Task`1 task)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Microsoft.AspNetCore.SpaServices.Extensions.Util.TaskTimeoutExtensions.WithTimeout[T](Task`1 task, TimeSpan timeoutDelay, String message)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-11-09T20:19:16.6622283+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T20:19:16.7077027+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T20:19:16.7255637+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T20:19:17.1070446+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T20:19:17.1186731+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T20:19:17.1407080+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T20:22:06.0566795+01:00 80000009-0002-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T20:22:06.1267246+01:00 80000006-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T20:22:06.1671389+01:00 8000000c-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T20:22:06.4567051+01:00 8000000c-0003-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T20:22:06.5165182+01:00 8000000c-0003-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T20:22:14.7506593+01:00 8000000e-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T20:22:14.8010967+01:00 8000000f-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T20:22:15.1812841+01:00 80000008-0001-fd00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T21:28:49.0216364+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T21:28:49.1311975+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T21:28:49.1570780+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T21:28:51.1281086+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T21:28:51.2063208+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T21:28:51.2998522+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T21:30:10.7151575+01:00 80000006-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:30:10.7806100+01:00 8000000b-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:30:10.8230350+01:00 8000000d-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T21:30:11.0977280+01:00 8000000d-0000-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T21:30:11.1451569+01:00 8000000d-0000-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T21:30:19.0902195+01:00 80000004-0003-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:30:19.1412300+01:00 80000005-0003-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:30:19.4672305+01:00 80000006-0002-fa00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T21:37:35.1113746+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T21:37:35.1389092+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T21:37:35.1547942+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T21:37:35.6067579+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T21:37:35.6219661+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T21:37:35.6253257+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T21:38:30.6226204+01:00 80000008-0002-f800-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:38:30.6885287+01:00 80000009-0000-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:38:30.7267518+01:00 8000000b-0000-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T21:38:30.9969630+01:00 8000000b-0000-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T21:38:31.0465032+01:00 8000000b-0000-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T21:43:21.8774631+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T21:43:21.9482905+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T21:43:21.9549991+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T21:43:22.4404270+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T21:43:22.4543410+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T21:43:22.4635266+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T21:44:24.9952158+01:00 8000001a-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:44:25.0600806+01:00 8000000c-0002-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:44:25.1077278+01:00 80000011-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T21:44:25.3811564+01:00 80000011-0001-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T21:44:25.4303599+01:00 80000011-0001-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T21:44:29.3114593+01:00 80000013-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:44:29.3572069+01:00 80000014-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:44:29.6962415+01:00 8000000f-0000-fd00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T21:46:20.4008152+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T21:46:20.4375213+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T21:46:20.4651742+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T21:46:20.7891716+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T21:46:20.8061791+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T21:46:20.8203097+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T21:47:14.0164444+01:00 80000012-0002-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:47:14.0816162+01:00 80000014-0002-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:47:14.1289341+01:00 8000001a-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T21:47:14.3932828+01:00 8000001a-0001-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T21:47:14.4370512+01:00 8000001a-0001-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T21:47:17.0662896+01:00 80000002-0003-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:47:17.1113273+01:00 80000003-0003-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:47:17.4545711+01:00 8000000e-0003-fe00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T21:58:26.2762236+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T21:58:26.3044726+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T21:58:26.3126657+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T21:58:26.7293465+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T21:58:26.7394356+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T21:58:26.7419350+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T21:59:27.6735559+01:00 80000024-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:59:27.7339006+01:00 80000020-0002-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:59:27.7795999+01:00 80000026-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T21:59:28.0345953+01:00 80000026-0001-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T21:59:28.0825330+01:00 80000026-0001-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T21:59:51.5912253+01:00 8000000e-0003-fb00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T21:59:51.6326667+01:00 8000000f-0003-fb00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T21:59:51.9797596+01:00 8000001c-0000-fe00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T22:03:32.1213083+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T22:03:32.1619341+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T22:03:32.1801348+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T22:03:32.5346046+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T22:03:32.5439503+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T22:03:32.5576067+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T22:04:36.5124386+01:00 80000028-0002-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:04:36.5762483+01:00 8000001a-0000-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:04:36.6140290+01:00 8000001c-0000-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T22:04:36.8724641+01:00 8000001c-0000-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T22:04:36.9191404+01:00 8000001c-0000-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T22:04:37.4327155+01:00 8000000f-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:04:37.4770619+01:00 80000010-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:04:37.8205397+01:00 80000018-0003-fe00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T22:05:22.6266328+01:00 80000006-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:05:22.6413342+01:00 80000022-0000-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:05:22.6541566+01:00 80000008-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T22:05:22.6863186+01:00 80000008-0001-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-09T22:05:22.6895687+01:00 80000008-0001-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T22:08:06.6152772+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T22:08:06.6514942+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T22:08:06.6583268+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T22:08:07.0064388+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T22:08:07.0206717+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T22:08:07.0299521+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T22:09:59.0013243+01:00 8000001a-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:09:59.0657052+01:00 8000001c-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:09:59.1064593+01:00 80000022-0000-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T22:09:59.3617456+01:00 80000022-0000-fe00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-09T22:09:59.4088168+01:00 80000022-0000-fe00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T22:09:59.9425663+01:00 8000001e-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:10:00.0008111+01:00 8000001f-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:10:00.3597041+01:00 80000032-0001-ff00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-09T22:10:17.7184511+01:00 80000010-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T22:10:17.7366834+01:00 80000012-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T22:10:17.7485854+01:00 80000026-0000-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T22:10:17.7639531+01:00 80000026-0000-fe00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-09T22:10:17.7672885+01:00 80000026-0000-fe00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T23:10:19.6653537+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T23:10:19.8261729+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T23:10:19.8343628+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T23:10:20.9830555+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T23:10:20.9974294+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T23:10:21.0186528+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T23:12:45.1162119+01:00 80000019-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:12:45.1937320+01:00 8000001b-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T23:12:45.2400466+01:00 80000025-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T23:12:45.5891470+01:00 80000025-0002-f900-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-09T23:12:45.6519910+01:00 80000025-0002-f900-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T23:12:46.4388293+01:00 8000001a-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:12:46.5038016+01:00 8000001b-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T23:27:37.2994679+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T23:27:37.3613399+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T23:27:37.3745703+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T23:27:38.1480467+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T23:27:38.2050209+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T23:27:38.2203264+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T23:29:01.2962440+01:00 8000003a-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:29:01.3938662+01:00 8000003c-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T23:29:01.4517146+01:00 8000003e-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T23:29:01.8905082+01:00 8000003e-0001-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-09T23:29:01.9605928+01:00 8000003e-0001-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T23:29:02.7597910+01:00 80000040-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:29:02.8348290+01:00 80000041-0001-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T23:35:43.7420759+01:00  [ERR] Error: src/app/components/settings/settings.component.html:50:53 - error NG5002: Unexpected closing tag "n". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags
+ (60523ab7)
+2021-11-09T23:35:43.7454883+01:00  [ERR] 50           <label id="aB">Account Balance: $0</label></n>
+ (d03f63c5)
+2021-11-09T23:35:43.7485680+01:00  [ERR]                                                        ~~~~
+ (a8b417e3)
+2021-11-09T23:35:43.7516862+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:35:43.7552196+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:35:43.7579138+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:35:43.7610966+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:35:47.8236924+01:00  [ERR] Error: src/app/components/settings/settings.component.html:50:53 - error NG5002: Only void and foreign elements can be self closed "n"
+ (bd81d336)
+2021-11-09T23:35:47.8379330+01:00  [ERR] 50           <label id="aB">Account Balance: $0</label><n/>
+ (69552010)
+2021-11-09T23:35:47.8455095+01:00  [ERR]                                                        ~~
+ (ae225ad5)
+2021-11-09T23:35:47.8527775+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:35:47.8566165+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:35:47.8602439+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:35:47.8637056+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:38:18.5382369+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (cca86c7e)
+2021-11-09T23:38:18.5505392+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:38:18.5536221+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:38:18.5567903+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:38:18.5618346+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:38:18.5688707+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:38:18.5724275+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (9915c176)
+2021-11-09T23:38:18.5766319+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:38:18.5805861+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:38:18.5880682+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:38:18.5931167+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:38:18.5960477+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:39:01.9224043+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (cca86c7e)
+2021-11-09T23:39:01.9280956+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:39:01.9319801+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:39:01.9465832+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:39:01.9512742+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:39:01.9543623+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:39:01.9596816+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (9915c176)
+2021-11-09T23:39:01.9637418+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:39:01.9703829+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:39:01.9757170+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:39:01.9802569+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:39:01.9858699+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:39:41.7809520+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (cca86c7e)
+2021-11-09T23:39:41.7837186+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:39:41.7927664+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:39:41.7995445+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:39:41.8023100+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:39:41.8055563+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:39:41.8088388+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (9915c176)
+2021-11-09T23:39:41.8136100+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:39:41.8175997+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:39:41.8225497+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:39:41.8260783+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:39:41.8303460+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:40:00.0698338+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (cca86c7e)
+2021-11-09T23:40:00.0726994+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:40:00.0768964+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:40:00.0798914+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:40:00.0831662+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:40:00.0860478+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:40:00.0888235+01:00  [ERR] Error: src/app/components/settings/settings.component.html:58:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (9915c176)
+2021-11-09T23:40:00.0913221+01:00  [ERR] 58 
+ (be8d6cda)
+2021-11-09T23:40:00.0939690+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:40:00.0966334+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:40:00.0997421+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:40:00.1024873+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:44:37.9034540+01:00  [ERR] Error: src/app/components/settings/settings.component.html:54:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (8ea8c729)
+2021-11-09T23:44:37.9061976+01:00  [ERR] 54 
+ (de68ca72)
+2021-11-09T23:44:37.9087270+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:44:37.9113385+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:44:37.9138734+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:44:37.9167541+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:44:37.9193225+01:00  [ERR] Error: src/app/components/settings/settings.component.html:54:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (efbbdc5b)
+2021-11-09T23:44:37.9235487+01:00  [ERR] 54 
+ (de68ca72)
+2021-11-09T23:44:37.9261578+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:44:37.9289133+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:44:37.9316232+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:44:37.9344387+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:47:26.7247592+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (4c7ed561)
+2021-11-09T23:47:26.7783317+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:47:26.7855743+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:47:26.7886293+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:47:26.8070470+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:47:26.8657456+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:47:26.8685626+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (64ea92ec)
+2021-11-09T23:47:26.8712604+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:47:26.8760171+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:47:26.8795376+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:47:26.8823366+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:47:26.8855935+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:50:22.6904603+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (4c7ed561)
+2021-11-09T23:50:22.7064347+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:50:22.7122251+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:50:22.7166683+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:50:22.7201386+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:50:22.7243007+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:50:22.7293939+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (64ea92ec)
+2021-11-09T23:50:22.7322074+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:50:22.7359020+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:50:22.7401770+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:50:23.0711849+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:50:23.0887527+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:50:52.1791879+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Invalid ICU message. Missing '}'.
+ (4c7ed561)
+2021-11-09T23:50:52.1834164+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:50:52.1860463+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:50:52.1901758+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:50:52.1988154+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:50:52.2021104+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:50:52.2067066+01:00  [ERR] Error: src/app/components/settings/settings.component.html:55:1 - error NG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)
+ (64ea92ec)
+2021-11-09T23:50:52.2094652+01:00  [ERR] 55 
+ (007ddba6)
+2021-11-09T23:50:52.2134143+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-09T23:50:52.2164286+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-09T23:50:52.2195125+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-09T23:50:52.2237194+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-09T23:51:56.2882369+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-09T23:51:56.3301209+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-09T23:51:56.3375405+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-09T23:51:56.8043811+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-09T23:51:56.8175492+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-09T23:51:56.8319463+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-09T23:53:14.8803606+01:00 80000023-0002-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:53:15.1174481+01:00 8000003d-0001-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-09T23:53:15.1674890+01:00 80000025-0002-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-09T23:53:15.5074839+01:00 80000025-0002-fe00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-09T23:53:15.5547206+01:00 80000025-0002-fe00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-09T23:53:16.4318561+01:00 8000000c-0003-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-09T23:53:16.4752477+01:00 8000000d-0003-fa00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)

@@ -1,0 +1,12 @@
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\DAL\obj\Debug\net5.0\DAL.pdb

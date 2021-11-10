@@ -1,0 +1,455 @@
+2021-11-10T00:02:25.3542454+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:78 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'input'.
+ (7d1c480e)
+2021-11-10T00:02:25.3626056+01:00  [ERR] 51                                        <div><a href="#"><input type="button" onclick="{currentVal-1}"/>Buy one sock</a></div>
+ (e99a3ef8)
+2021-11-10T00:02:25.3726997+01:00  [ERR]                                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (9c3bbb8a)
+2021-11-10T00:02:25.3759057+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:02:25.3794157+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:02:25.3883635+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:02:25.3921228+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:02:59.1628180+01:00 80000020-0003-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:02:59.1752023+01:00 80000018-0002-fb00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:02:59.1863177+01:00 80000036-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-10T00:02:59.2025855+01:00 80000036-0001-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-10T00:02:59.2066585+01:00 80000036-0001-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-10T00:04:11.9823656+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:78 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'input'.
+ (7d1c480e)
+2021-11-10T00:04:11.9868731+01:00  [ERR] 51                                        <div><a href="#"><input type="button" onclick="{currentVal+1}"/>Buy one sock</a></div>
+ (130213ae)
+2021-11-10T00:04:11.9947853+01:00  [ERR]                                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (9c3bbb8a)
+2021-11-10T00:04:12.0054601+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:04:12.0082642+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:04:12.0123674+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:04:12.0156375+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:05:18.8207902+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:45 - error NG5002: Opening tag "input" not terminated.
+ (a6eae3ca)
+2021-11-10T00:05:18.8232641+01:00  [ERR] 51                                        <div><input value="'Buy one sock'" button" onclick="{currentVal+1}"/></div>
+ (bef05840)
+2021-11-10T00:05:18.8269156+01:00  [ERR]                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (d34d97da)
+2021-11-10T00:05:18.8296748+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:05:18.8325380+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:05:18.8351764+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:05:18.8385451+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:07:54.2683671+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:07:54.3228057+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:07:54.3303405+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:07:54.8595599+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:07:54.8632026+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:07:54.8673598+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-10T00:08:34.9054618+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:22 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (f98e7d00)
+2021-11-10T00:08:34.9079832+01:00  [ERR] 51         <div><button onclick="{currentVal + 1}">Buy one sock</button></div>
+ (891aa998)
+2021-11-10T00:08:34.9111712+01:00  [ERR]                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (91d23847)
+2021-11-10T00:08:34.9143915+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:08:34.9201045+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:08:34.9294576+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:08:34.9560828+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:08:34.9720268+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:22 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (c43dba35)
+2021-11-10T00:08:34.9783013+01:00  [ERR] 52         <div><button onclick="{currentVal - 1}">Sell one sock</button></div>
+ (579996ba)
+2021-11-10T00:08:35.0260360+01:00  [ERR]                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (91d23847)
+2021-11-10T00:08:35.0588566+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:08:35.0789784+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:08:35.0885146+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:08:35.1273754+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:09:40.2220540+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:17 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (8d0d8e1e)
+2021-11-10T00:09:40.2476332+01:00  [ERR] 51         <button onclick="{currentVal-1}">Buy one sock</button>
+ (3972c4ea)
+2021-11-10T00:09:40.2551502+01:00  [ERR]                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (fd502233)
+2021-11-10T00:09:40.2715101+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:09:40.2928803+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:09:40.3008785+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:09:40.3077596+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:09:40.3119338+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:17 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (859eb964)
+2021-11-10T00:09:40.3162523+01:00  [ERR] 52         <button onclick="{currentVal+1}">Sell one sock</button>
+ (36284484)
+2021-11-10T00:09:40.3218617+01:00  [ERR]                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (fd502233)
+2021-11-10T00:09:40.3257903+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:09:40.3341875+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:09:40.3426974+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:09:40.3491215+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:11:44.5526706+01:00 8000003e-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:11:44.6483044+01:00 80000046-0000-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:11:44.6959938+01:00 80000040-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-10T00:11:45.6299666+01:00 80000040-0001-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-10T00:11:45.6948779+01:00 80000040-0001-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-10T00:11:46.3752569+01:00 80000033-0002-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:11:46.4410122+01:00 80000034-0002-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:13:54.4725021+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:17 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (8d0d8e1e)
+2021-11-10T00:13:54.4766933+01:00  [ERR] 51         <button onclick="{getVal($event.target.value)}-1">Buy one sock</button>
+ (4fd52bca)
+2021-11-10T00:13:54.4800944+01:00  [ERR]                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (01f52a99)
+2021-11-10T00:13:54.4844080+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:13:54.4892679+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:13:54.4932981+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:13:54.4995397+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:13:54.5029264+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:35 - error TS2339: Property '$event' does not exist on type 'SettingsComponent'.
+ (3ec690b0)
+2021-11-10T00:13:54.5060872+01:00  [ERR] 51         <button onclick="{getVal($event.target.value)}-1">Buy one sock</button>
+ (4fd52bca)
+2021-11-10T00:13:54.5149723+01:00  [ERR]                                      ~~~~~~
+ (4fbe5000)
+2021-11-10T00:13:54.5182053+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:13:54.5211591+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:13:54.5255970+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:13:54.5291529+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:13:54.5319131+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:17 - error NG8002: Can't bind to 'onclick' since it isn't a known property of 'button'.
+ (859eb964)
+2021-11-10T00:13:54.5347646+01:00  [ERR] 52         <button onclick="{getVal($event.target.value)}+1">Sell one sock</button>
+ (e20e4b5b)
+2021-11-10T00:13:54.5375436+01:00  [ERR]                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (01f52a99)
+2021-11-10T00:13:54.5412729+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:13:54.5446647+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:13:54.5473803+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:13:54.5503182+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:13:54.5533293+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:35 - error TS2339: Property '$event' does not exist on type 'SettingsComponent'.
+ (dbbf0c2f)
+2021-11-10T00:13:54.5562112+01:00  [ERR] 52         <button onclick="{getVal($event.target.value)}+1">Sell one sock</button>
+ (e20e4b5b)
+2021-11-10T00:13:54.5599088+01:00  [ERR]                                      ~~~~~~
+ (4fbe5000)
+2021-11-10T00:13:54.5625822+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:13:54.5654508+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:13:54.5681874+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:13:54.5709184+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:44.8068809+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error NG5002: Parser Error: Missing expected ) at column 20 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (782a979d)
+2021-11-10T00:20:44.8114377+01:00  [ERR] 51         <button (click)="minus({currentVal})">Buy one sock</button>
+ (f2d8ed1b)
+2021-11-10T00:20:44.8140672+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~~
+ (9fb0b347)
+2021-11-10T00:20:44.8169143+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:44.8197127+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:44.8229838+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:44.8276240+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:44.8312404+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error NG5002: Parser Error: Missing expected : at column 19 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (e03c7351)
+2021-11-10T00:20:44.8343805+01:00  [ERR] 51         <button (click)="minus({currentVal})">Buy one sock</button>
+ (f2d8ed1b)
+2021-11-10T00:20:44.8376005+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~~
+ (9fb0b347)
+2021-11-10T00:20:44.8417793+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:44.8456902+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:44.8491396+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:44.8520188+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:44.8565902+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error NG5002: Parser Error: Unexpected token ')' at column 21 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (8761d94e)
+2021-11-10T00:20:44.8623460+01:00  [ERR] 51         <button (click)="minus({currentVal})">Buy one sock</button>
+ (f2d8ed1b)
+2021-11-10T00:20:44.8680162+01:00  [ERR] m                            ~~~~~~~~~~~~~~~~~~~~~
+ (3a43b0e7)
+2021-11-10T00:20:44.8714907+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.1010763+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.1120743+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.2067388+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.2274108+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error NG5002: Parser Error: Unexpected token {, expected identifier, keyword, or string at column 8 in [minus({{currentVal}})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (527f34dd)
+2021-11-10T00:20:45.2495039+01:00  [ERR] 51         <button (click)="minus({currentVal})">Buy one sock</button>
+ (f2d8ed1b)
+2021-11-10T00:20:45.2535591+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~~
+ (9fb0b347)
+2021-11-10T00:20:45.2568215+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.2669568+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.2709805+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.2773031+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.2805915+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error NG5002: Parser Error: Unexpected token } at column 19 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (7fe6973f)
+2021-11-10T00:20:45.2853349+01:00  [ERR] 51         <button (click)="minus({currentVal})">Buy one sock</button>
+ (f2d8ed1b)
+2021-11-10T00:20:45.2884707+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~~
+ (9fb0b347)
+2021-11-10T00:20:45.2949904+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.2977574+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.3007161+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.3051597+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.3089557+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Missing expected ) at column 19 in [plus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@51:25
+ (c95dff92)
+2021-11-10T00:20:45.3126693+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.3154169+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.3180364+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.3223653+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.3391594+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.3440568+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.3476719+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Missing expected ) at column 20 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (38affedb)
+2021-11-10T00:20:45.3511624+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.3603467+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.3655559+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.3698351+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.3729155+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.3784322+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.3816839+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Missing expected : at column 18 in [plus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@51:25
+ (c4294ba1)
+2021-11-10T00:20:45.3851334+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.3881629+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.3933029+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.3967848+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.4001662+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.4030434+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.4059614+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Missing expected : at column 19 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (00338b99)
+2021-11-10T00:20:45.4105081+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.4133794+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.4167155+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.4198848+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.4228442+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.4268638+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.4300608+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token ')' at column 20 in [plus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@51:25
+ (7cd6f247)
+2021-11-10T00:20:45.4333917+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.4364735+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.4401292+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.4439638+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.4468579+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.4496638+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.4546226+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token ')' at column 21 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (3fd75836)
+2021-11-10T00:20:45.4591622+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.4629766+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.4659062+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.4691256+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.4719381+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.4758223+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.4796291+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token {, expected identifier, keyword, or string at column 7 in [plus({{currentVal}})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@51:25
+ (4cdc3419)
+2021-11-10T00:20:45.4829257+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.4857355+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.4888410+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.4922976+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.4961213+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.4993002+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.5023679+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token {, expected identifier, keyword, or string at column 8 in [minus({{currentVal}})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (b7fe5e06)
+2021-11-10T00:20:45.5052410+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.5095243+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.5129808+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.5161490+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.5196185+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.5228683+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.5291556+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token } at column 18 in [plus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@51:25
+ (e462d149)
+2021-11-10T00:20:45.5325369+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.5364466+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.5395023+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.5469216+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.5506629+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.5553392+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:20:45.5638225+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error NG5002: Parser Error: Unexpected token } at column 19 in [minus({currentVal})] in C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks\ClientApp\src\app\components\settings\settings.component.html@50:25
+ (99049816)
+2021-11-10T00:20:45.5677492+01:00  [ERR] 52         <button (click)="plus({currentVal})">Sell one sock</button>
+ (b6190a2d)
+2021-11-10T00:20:45.5709297+01:00  [ERR]                             ~~~~~~~~~~~~~~~~~~~~
+ (5db55ab0)
+2021-11-10T00:20:45.5798546+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:20:45.5863748+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:20:45.5898539+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:20:45.5935782+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:21:18.3436282+01:00  [ERR] Error: src/app/components/settings/settings.component.html:51:26 - error TS2554: Expected 1 arguments, but got 0.
+ (34413e1c)
+2021-11-10T00:21:18.3511934+01:00  [ERR] 51         <button (click)="minus()">Buy one sock</button>
+ (a503a7bd)
+2021-11-10T00:21:18.3541358+01:00  [ERR]                             ~~~~~
+ (6db97791)
+2021-11-10T00:21:18.3581827+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:21:18.3609898+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:21:18.3639049+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:21:18.3726265+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:21:18.3775031+01:00  [ERR] Error: src/app/components/settings/settings.component.html:52:26 - error TS2554: Expected 1 arguments, but got 0.
+ (543bcfdd)
+2021-11-10T00:21:18.3841578+01:00  [ERR] 52         <button (click)="plus()">Sell one sock</button>
+ (6ea86838)
+2021-11-10T00:21:18.3934484+01:00  [ERR]                             ~~~~
+ (b46424cc)
+2021-11-10T00:21:18.4088246+01:00  [ERR]   src/app/components/settings/settings.component.ts:18:16
+ (744e787d)
+2021-11-10T00:21:18.4145156+01:00  [ERR]     18   templateUrl: './settings.component.html',
+ (68bfafe0)
+2021-11-10T00:21:18.4180157+01:00  [ERR]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (8aed2f7d)
+2021-11-10T00:21:18.4223901+01:00  [ERR]     Error occurs in the template of component SettingsComponent.
+ (87fda9cc)
+2021-11-10T00:31:34.4603393+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:31:34.5137324+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:31:34.5205511+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:31:35.8230694+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:31:35.8852120+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:31:35.9043549+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-10T00:32:56.0718729+01:00 8000001c-0002-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:32:56.1361479+01:00 8000001e-0002-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:32:56.1771019+01:00 8000003c-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-10T00:32:56.4658077+01:00 8000003c-0003-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2021-11-10T00:32:56.5228470+01:00 8000003c-0003-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-10T00:32:57.0947868+01:00 80000038-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:32:57.1416556+01:00 80000039-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:40:41.6768009+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:40:41.7579914+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:40:41.7751495+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:40:42.2846753+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:40:42.3085599+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:40:42.3534656+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-10T00:45:07.1836269+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:45:07.2109855+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:45:07.2242377+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:45:07.6212399+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:45:07.6497127+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:45:07.6655979+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-10T00:47:37.6010907+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:47:37.6293285+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:47:37.6375967+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:47:38.1729703+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:47:38.1768962+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:47:38.1910101+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
+2021-11-10T00:48:57.3031299+01:00 8000004e-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:48:57.3776617+01:00 8000000e-0001-f800-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:48:57.4336668+01:00 8000003c-0000-fe00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2021-11-10T00:48:57.7470036+01:00 8000003c-0000-fe00-b63f-84710c7967bb [INF] Credentials validated for username: "TheBoss" (cb811aa7)
+2021-11-10T00:48:57.7976302+01:00 8000003c-0000-fe00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "TheBoss", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "TheBoss"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2021-11-10T00:48:58.4206107+01:00 80000050-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2021-11-10T00:48:58.4825224+01:00 80000051-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2021-11-10T00:48:58.9311783+01:00 80000026-0000-f800-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2021-11-10T00:55:22.8334657+01:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2021-11-10T00:55:22.8592918+01:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2021-11-10T00:55:22.8757066+01:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2021-11-10T00:55:23.2154474+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-11-10T00:55:23.2186930+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-11-10T00:55:23.2253207+01:00  [INF] Content root path: "C:\Users\Mihajlo\source\repos\BuyOrSellSocks\BuyOrSellSocks\BuyOrSellSocks" (b5d60022)
